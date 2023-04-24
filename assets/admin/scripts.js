@@ -1,0 +1,1 @@
+document.getElementById('title').value = data_passed.title_of_post;
